@@ -2,6 +2,7 @@
 
 <img width="1175" alt="default" src="https://user-images.githubusercontent.com/33269462/44305049-55581000-a33c-11e8-8eec-b2d07e06583c.png">
 
+## Assignments
 
 ### Logistic Regression with a Neural Network mindset
 Building a logistic regression classifier to recognize cats
@@ -18,14 +19,13 @@ Building a logistic regression classifier to recognize cats
 * Implement forward and backward propagation
 
 ### Building your Deep Neural Network: Step by Step
-* Use non-linear units like ReLU to improve your model
+* Use non-linear units like ReLU to improve my model
 * Build a deeper neural network (with more than 1 hidden layer)
 * Implement an easy-to-use neural network class
 
 ### Deep Neural Network for Image Classification: Application
 I used the functions I have implemented in the previous assignment to build a deep network, and apply it to cat vs non-cat classification. Hopefully, there is an improvement in accuracy relative to my previous logistic regression implementation.
 * Build and apply a deep neural network to supervised learning.
-
 
 ### Initialization
 It shows how a well chosen initialization can:
@@ -42,16 +42,14 @@ It uses mathematic techniques to check the implementation of backpropagation is 
 I learnt more advanced optimization methods that can speed up learning and perhaps even get me to a better final value for the cost function. Having a good optimization algorithm can be the difference between waiting days vs. just a few hours to get a good result.
 
 ### TensorFlow Tutorial
-How we can use some existing frameworks that allow you to build neural networks more easily. Machine learning frameworks like TensorFlow, PaddlePaddle, Torch, Caffe, Keras, and many others can speed up your machine learning development significantly. All of these frameworks also have a lot of documentation, which we should feel free to read. In this assignment, I learnt the following in TensorFlow:
+How we can use some existing frameworks that allow me to build neural networks more easily. Machine learning frameworks like TensorFlow, PaddlePaddle, Torch, Caffe, Keras, and many others can speed up my machine learning development significantly. All of these frameworks also have a lot of documentation, which we should feel free to read. In this assignment, I learnt the following in TensorFlow:
 * Initialize variables
-* Start your own session
+* Start my own session
 * Train algorithms
 * Implement a Neural Network
 
-
 ### Convolutional Neural Networks: Step by Step
 Implementing convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation.
-
 
 ### Convolutional Neural Networks: Application
 * Implement helper functions that will use when implementing a TensorFlow model
@@ -74,12 +72,12 @@ Learning about object detection using the very powerful YOLO model.
 
 ### Deep Learning & Art: Neural Style Transfer
 * Implement the neural style transfer algorithm
-* Generate novel artistic images using your algorithm
+* Generate novel artistic images using my algorithm
 Notes that most of the algorithms we have studied optimize a cost function to get a set of parameter values. In Neural Style Transfer, we optimize a cost function to get pixel values!
 
 ### Face Recognition for the Happy House
 Face recognition problems commonly fall into two categories:
-* Face Verification - "is this the claimed person?". For example, at some airports, you can pass through customs by letting a system scan your passport and then verifying that you (the person carrying the passport) are the correct person. A mobile phone that unlocks using your face is also using face verification. This is a 1:1 matching problem.
+* Face Verification - "is this the claimed person?". For example, at some airports, I can pass through customs by letting a system scan my passport and then verifying that I (the person carrying the passport) am the correct person. A mobile phone that unlocks using my face is also using face verification. This is a 1:1 matching problem.
 * Face Recognition - "who is this person?". For example, the video lecture showed a face recognition video of Baidu employees entering the office without needing to otherwise identify themselves. This is a 1:K matching problem.
 * Implement the triplet loss function
 * Use a pretrained model to map face images into 128-dimensional encodings
@@ -97,7 +95,7 @@ It covers
 
 ### Improvise a Jazz Solo with an LSTM Network
 * Apply an LSTM to music generation.
-* Generate your own jazz music with deep learning.
+* Generate jazz music with deep learning.
 
 ### Operations on word vectors
 Because word embeddings are very computionally expensive to train, most ML practitioners will load a pre-trained set of embeddings.
